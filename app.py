@@ -84,7 +84,7 @@ def generate_pdf_report(bottleneck_text, total_waste, current_total, optimized_t
     pdf.set_font("Helvetica", "", 10)
     pdf.multi_cell(0, 5, safe_text(ai_report.scope_3_reduction_roadmap))
     
-    return bytes(pdf.output())
+    return pdf.output(dest='S').encode('latin-1')
 
 # -----------------------------------------
 # DATA INGESTION & UI
