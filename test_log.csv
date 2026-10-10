@@ -1,0 +1,7 @@
+Order_ID,Activity,Timestamp,Distance_km,Load_Weight_kg
+ORD-01,Supplier Dispatched,2026-10-01 08:00,120,5000
+ORD-01,Checkpost Waiting,2026-10-01 10:00,200,0
+ORD-01,Hub Arrival,2026-10-01 18:00,80,5000
+ORD-02,Supplier Dispatched,2026-10-02 08:00,120,5000
+ORD-02,Checkpost Waiting,2026-10-02 10:00,200,0
+ORD-02,Hub Arrival,2026-10-02 17:00,80,5000

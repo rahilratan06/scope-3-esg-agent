@@ -1,0 +1,8 @@
+Order_ID,Activity,Timestamp,Distance_km,Load_Weight_kg
+ORD-LOOP,Dispatch,2026-10-01 08:00,50,5000
+ORD-LOOP,Quality Inspection,2026-10-01 10:00,10,5000
+ORD-LOOP,Failed Return,2026-10-01 12:00,10,0
+ORD-LOOP,Quality Inspection,2026-10-01 14:00,10,5000
+ORD-LOOP,Failed Return,2026-10-01 16:00,10,0
+ORD-LOOP,Quality Inspection,2026-10-01 18:00,10,5000
+ORD-LOOP,Delivered,2026-10-01 20:00,50,5000

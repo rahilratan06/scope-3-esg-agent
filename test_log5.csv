@@ -1,0 +1,4 @@
+Order_ID,Activity,Timestamp,Distance_km,Load_Weight_kg
+ORD-S1,Supplier Dispatched,2026-10-01 08:00,100,5000
+ORD-S2,Supplier Dispatched,2026-10-01 09:00,120,4000
+ORD-S3,Supplier Dispatched,2026-10-01 10:00,90,6000

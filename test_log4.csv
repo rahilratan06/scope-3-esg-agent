@@ -1,0 +1,4 @@
+Order_ID,Activity,Timestamp,Distance_km,Load_Weight_kg
+ORD-AGRI,Farm Harvest,2026-10-01 08:00,10,8000
+ORD-AGRI,Mandi Checkpost,2026-10-01 10:00,50,8000
+ORD-AGRI,Cold Storage,2026-10-05 14:00,5,8000

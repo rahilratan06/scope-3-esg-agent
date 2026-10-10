@@ -1,0 +1,6 @@
+Order_ID,Activity,Timestamp,Distance_km,Load_Weight_kg
+ORD-ERR1,Supplier Dispatched,2026-10-01 08:00,-500,5000
+ORD-ERR1,Checkpost Waiting,INVALID_DATE,100,5000
+ORD-ERR1,Hub Arrival,2026-10-01 12:00,text_error,0
+ORD-ERR2,Supplier Dispatched,2026-10-02 08:00,100,-1000
+ORD-ERR2,Checkpost Waiting,2026-10-02 12:00,,0
